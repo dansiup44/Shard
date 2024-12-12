@@ -1,0 +1,12 @@
+{
+    "name": "Shard",
+    "symbol": "SHRD",
+    "description": "The Shard token [SHRD] was created as an independent crypto-token for trading📊",
+    "image": "https://raw.githubusercontent.com/dansiup44/Shard/main/shard.png",
+    "attributes": [
+      {
+        "trait_type": "Shard",
+        "value": "Glinting"
+      }
+    ]
+  }
